@@ -7,11 +7,11 @@ parts:
 
   - caption: Tutorials
     chapters:
-      - file: session1/README.md
-      - file: session2/README.md
-      - file: session3/README.md
-      - file: session4/README.md
+      - file: session1/README
+      - file: session2/README
+      - file: session3/README
+      - file: session4/README
   
   - caption: Other information
     chapters:
-      - file: imprint.md
+      - file: imprint

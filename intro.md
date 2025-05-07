@@ -1,5 +1,7 @@
 # KI-Kompetenz-Training 2025
 
+<Diese Webseite befindet sich im Aufbau>
+
 ## Programm
 
 9:00 - 10:15 Einführung und Grundlagen (20 Minuten)

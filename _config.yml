@@ -27,6 +27,13 @@ html:
   extra_footer: |
     <p>
     Copyright: Licensed <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC-BY 4.0</a> unless mentioned otherwise.</p>
+  extra_static_paths:
+  - session1
+  - session2
+  - session3
+  - session4
+
+
 sphinx:
   config:
     html_show_copyright: false

@@ -22,8 +22,10 @@
 12:00 - 13:00 Mittagspause
 
 13:00 - 14:00 [Übungen](session2/README.md)
-  * Durchsuchen von Fördermittelanträgen mittels KI
   * Arbeiten mit einem fiktiven KI-gestützten Forschungsinformationssystem
+  * Durchsuchen von Fördermittelanträgen mittels KI
+  * Datenanalyse, Daten- und Code-Generierung
+  * Bias-Detektion
   * Vergleich verschiedener Sprachodelle und KI-Systeme (ChatGPT, Helmholtz Blablador, GWDG/KISSKI ChatAI)
 
 14:00 - 14:45 Verantwortungsvolle Nutzung von Sprachmodellen
@@ -33,6 +35,8 @@
 
 14:45 - 15:30 Diskussion
   * Anonymisierung/Pseudonymisierung von Dokumenten
+  * Dürfen wir das? Praktische Beispiele
+  * Risiko-Bewertungen
 
 15:30 - 16:30 [Ausblick und freie Exploration](session4/README.md)
 * Aufkommende KI-basierte Techniken

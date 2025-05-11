@@ -8,6 +8,11 @@ parts:
   - caption: Tutorials
     chapters:
       - file: session1/README
+        sections:
+        file: session1/rede-generierung.md
+        file: session1/destillation.md
+        file: session1/chatbot.md
+        file: session1/bildgenerierung.md
       - file: session2/README
       - file: session3/README
       - file: session4/README

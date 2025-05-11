@@ -1,0 +1,20 @@
+# Spickzettel für Lehrende
+
+In dieser Session werden Teilnehmende Dokumente und Daten analysieren. 
+
+## Analyse von Zusammenhängen zwischen Forschungsdisziplinen
+
+Diese Übung wird in der gesamten Gruppe durchgeführt. Wir betrachten einen Plot in dem jeder Datenpunkt einem Thema einer Doktorarbeit entspricht. 
+Der Übungsleiter umrandet einige Punkte die nah beieinander liegen um eine Wordcloud aus den Forschungsthemen zu generieren. Die Teilnehmenden raten um welche Fachdisziplin es sich handelt. Beispiel: Sportwissenschaften:
+
+![](session2/plot_example_sport.png)
+
+Nach einigen Wiederholungen sollte sich ein Gefühl einstellen, wie die Datenpunkte mit den dahinter liegenden Daten verknüpft sind. Es vermittelt ein intuitives Verständnis der Funktionsweise von Sprachmodellen. 
+
+Hier noch die Auflösung für die Verteilung der Fakultäten:
+
+![](faculties.png)
+
+## Analyse von Fördermittelanträgen
+
+Eine häufige Anwendung von Sprachmodellen ist eine Kombination mit indizierten Dokumenten. Die zugrundeliegende Technik ([Retrieval Augmented Generation, RAG](https://en.wikipedia.org/wiki/Retrieval-augmented_generation))

@@ -4,30 +4,39 @@
 
 ## Programm
 
-9:00 - 10:15 Einführung und Grundlagen (20 Minuten)
-* Einführung in Künstliche Intelligenz, ChatGPT und Sprachmodelle
+9:30 - 10:00 Einführung und Grundlagen
+* Einführung in Künstliche Intelligenz, KI-Systeme und Sprachmodelle
 * Anwendungsgebiete und Grenzen von KI bei der Text-Generierung
-* Übung
-  * KI-gestützte Beratung / Implementierung eines eigenen ChatBots
-
-10:30 - 12:30 Sprachmodelle zum Suchen in Dokumenten und zur Datenanalyse
 * Prompt-Engineering, Prompten mit großem Kontext
+
+10:00 - 11:30 [Übungen](session1/README.md)
+* Text-Generierung 
+* Wissensdestillation
+* KI-gestützte Beratung / Implementierung eines eigenen ChatBots
+* Bildgenerierung (optional)
+
+11:30 - 12:00 Sprachmodelle zum Suchen in Dokumenten und zur Datenanalyse
 * Embeddings und Retrieval-Augmented Generation
-* Übung
+* Datenanalyse, Daten- und Code-Generierung
+
+12:00 - 13:00 Mittagspause
+
+13:00 - 14:00 [Übungen](session2/README.md)
   * Durchsuchen von Fördermittelanträgen mittels KI
   * Arbeiten mit einem fiktiven KI-gestützten Forschungsinformationssystem
   * Vergleich verschiedener Sprachodelle und KI-Systeme (ChatGPT, Helmholtz Blablador, GWDG/KISSKI ChatAI)
 
-13:15 - 14:45 Verantwortungsvolle Nutzung von Sprachmodellen (20 min)
+14:00 - 14:45 Verantwortungsvolle Nutzung von Sprachmodellen
 * Datenschutzkonforme Nutzung, Anonymisierung
 * Copyright-Aspekte
 * Ethische Aspekte
-* Übung
+
+14:45 - 15:30 Diskussion
   * Anonymisierung/Pseudonymisierung von Dokumenten
 
-15:00 - 16:00 Ausblick und Diskussion
+15:30 - 16:30 [Ausblick und freie Exploration](session4/README.md)
 * Aufkommende KI-basierte Techniken
-* Generierung von Bildern, Grafiken, Präsentationsfolien
+* Generierung von Grafiken, Präsentationsfolien
 * Übung 
   * Diskussion und freies Experimentieren mit Sprachmodellen (90 min)
 * Feedbackrunde

@@ -26,12 +26,19 @@ Bei wissenschaftlichen Projekten ist es üblich Zwischenberichte zum Drittmittel
 
 ## Chat-Bot (30 Minuten)
 
-Teilnehmende bekommen die Möglichkeit einen Chatbot selbst zu gestalten. Hierbei spielt die Wissensbasis eine entscheidende Rolle. Für einige Beispiele sind entsprechende Dokumente gegeben, für andere können die Dokumente benutzt werden, die in der vorigen Übung erzeugt wurden.
+Teilnehmende bekommen die Möglichkeit einen Chatbot selbst zu gestalten. Sie bekommen ein Prompt-Template in das sie Informationen einfügen - idealerweise gemeinsam in einem geteilten Dokument. Der komplette Prompt wird dann in die ChatApp kopiert. 
+Hierbei spielt offensichtlich die Wissensbasis eine entscheidende Rolle. Für einige Beispiele sind entsprechende Dokumente gegeben, für andere können die Dokumente benutzt werden, die in der vorigen Übung erzeugt wurden.
 
 Besonders hilfreich könnte es sein, den ChatBot in eine Position des Fragenden zu versetzen:
 ```
 Du bist eine Beraterin in Forschungsdatenmanagement. Unser Job ist es einen Datenmanagementplan zu schreiben. Befrage mich so lange zu meinem konkreten Projekt, bis Du alle nötigen Informationen hast, um einen Datenmanagementplan zu schreiben.
 ```
+
+
+
+
+
+
 
 ## Bildgenerierung (Optional, 10 Minuten)
 

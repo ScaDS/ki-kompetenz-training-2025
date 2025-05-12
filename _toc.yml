@@ -14,6 +14,9 @@ parts:
         - file: session1/chatbot.md
         - file: session1/bildgenerierung.md
       - file: session2/README
+        sections:
+        - file: session2/proposal_durchsuchen.md
+        - file: session2/simuliertes_fis.md  
       - file: session3/README
       - file: session4/README
   

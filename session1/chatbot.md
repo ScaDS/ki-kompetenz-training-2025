@@ -16,14 +16,16 @@ Du bist ein höflicher und hilfreicher Assistent, der bei Fragen zum Thema <THEM
 Antworte auf alle Fragen AUSSCHLIESSLICH mit den gegebenen Informationen. Wenn die Antwort auf eine Frage nicht in den Informationen oben gegeben ist, antworte höflich, dass Du die Antwort nicht kennst und verweise auf die Email-Adresse der Beratungsstelle: <EMAIL>
 ```
 
-Kopieren Sie diesen Prompt in ein geteiltes Dokument und ersetzen Sie die `<PLATZHALTER>` durch konkreten Text. Kopieren Sie dann den Prompt in die entsprechende Chat-App. 
+Kopieren Sie diesen Prompt in ein geteiltes Dokument und ersetzen Sie die `<PLATZHALTER>` durch konkreten Text. Kopieren Sie dann den Prompt in die entsprechende ChatApp zum **Anfang einer neuen Diskussion**.
 
 ## Themen
 
 Für diese Übung stehen verschiedene Themen zur Auswahl.
 * [Nutzung von Generativer KI](nutzung_genki.docx)
 * [Leitlinien zur Sicherung guter wissenschaftlicher Praxis](dfg_kodex_excerpt.docx)
+* [Checkliste zum Umgang mit Forschungsdaten](checkliste_dmp.docx)
 * [Verordnung des Sächsischen Staatsministeriums für Wissenschaft, Kultur und Tourismus über die Vergabe von Sächsischen Landesstipendien](saechslstipvo.docx)
+* Nutzen Sie ggf. auch in der Übung zuvor generierte Wissensbasen
 
 ## KI-Systeme
 
@@ -49,3 +51,16 @@ Wir müssen ein <DOKUMENT> erstellen.
 Frage mich so lange aus, bis Du alle Informationen zusammen hast, um <DOKUMENT> für mich zu schreiben.
 ```
 
+## Beispiele
+
+### Nutzung generativer KI
+
+![](chatbot3.png) 
+
+### Gute Wissenschaftliche Praxis
+
+![](kodex_chatbot.png)
+
+### Schreiben eines DMPs
+
+![](dmp_chatbot.png)

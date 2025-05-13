@@ -11,15 +11,22 @@ parts:
     - file: session1/destillation.md
     - file: session1/chatbot.md
     - file: session1/bildgenerierung.md
+
   - caption: Datenanalyse mit Generativer KI
     chapters:
     - file: session2/simuliertes_fis.md
     - file: session2/proposal_durchsuchen.md
     - file: session2/ai_data_analysis_.md
     - file: session2/bias_detektion.md
+
   - caption: Rechtliche & Ethische Aspekte beim Einsatz von KI
+    chapters:
+    - file: session4/README.md
+
   - caption: Diskussion & Ausblick
-  
+    chapters:
+    - file: session4/README.md
+
   - caption: Weitere Informationen
     chapters:
     - file: imprint.md

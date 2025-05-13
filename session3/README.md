@@ -1,4 +1,4 @@
-# Rechtlicher Rahmen & Ethik
+# Verantwortungsvolle Nutzung von Generativer KI und Rechtlicher Rahmen
 
 
 

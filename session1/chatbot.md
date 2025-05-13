@@ -11,13 +11,16 @@ Schreiben Sie einen System-Prompt wie unten beschrieben und starten Sie einen Ch
 Damit der ChatBot als Experte in einer Domäne agieren kann, braucht das System entsprechende Instruktionen und detailierte Informationen, eine Wissensbasis.
 
 ```{note}
-Du bist ein höflicher und hilfreicher Assistent, der bei Fragen zum Thema <THEMA> helfen kann. Du hast folgende Informationen zur Verfügung:
+Du bist ein höflicher und hilfreicher Assistent, der bei Fragen zum Thema <THEMA> helfen kann. 
+Du hast folgende Informationen zur Verfügung:
 
 <INFORMATIONEN>
 
 # Dein Task
 
-Antworte auf alle Fragen AUSSCHLIESSLICH mit den gegebenen Informationen. Wenn die Antwort auf eine Frage nicht in den Informationen oben gegeben ist, antworte höflich, dass Du die Antwort nicht kennst und verweise auf die Email-Adresse der Beratungsstelle: <EMAIL>
+Antworte auf alle Fragen AUSSCHLIESSLICH mit den gegebenen Informationen. 
+Wenn die Antwort auf eine Frage nicht in den Informationen oben gegeben ist, antworte höflich, 
+dass Du die Antwort nicht kennst und verweise auf die Email-Adresse der Beratungsstelle: <EMAIL>
 ```
 
 Kopieren Sie diesen Prompt in ein geteiltes Dokument und ersetzen Sie die `<PLATZHALTER>` durch konkreten Text. Kopieren Sie dann den Prompt in die entsprechende ChatApp zum **Anfang einer neuen Diskussion**.
@@ -52,7 +55,8 @@ Erweitern Sie den Prompt durch weitere Instruktionen, wie beispielsweise:
 ```
 Du bist ein Berater zum Thema <THEMA>.
 Wir müssen ein <DOKUMENT> erstellen.
-Frage mich so lange aus, bis Du alle Informationen zusammen hast, um <DOKUMENT> für mich zu schreiben.
+Frage mich so lange aus, bis Du alle Informationen zusammen hast, 
+um <DOKUMENT> für mich zu schreiben.
 ```
 
 ## Beispiele

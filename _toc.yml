@@ -8,8 +8,8 @@ parts:
   - caption: Grundlagen Generativer KI
     chapters:
     - file: session1/rede-generierung.md
-    - file: session1/destillation.md
     - file: session1/chatbot.md
+    - file: session1/destillation.md
     - file: session1/bildgenerierung.md
 
   - caption: Datenanalyse mit Generativer KI
@@ -19,7 +19,7 @@ parts:
     - file: session2/ai_data_analysis_.md
     - file: session2/bias_detektion.md
 
-  - caption: Rechtliche & Ethische Aspekte beim Einsatz von KI
+  - caption: Verantwortungsvolle Nutzung von Generativer KI und Rechtlicher Rahmen
     chapters:
     - file: session3/README.md
 

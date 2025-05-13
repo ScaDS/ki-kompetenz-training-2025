@@ -46,7 +46,7 @@ In dieser Aufgabe generieren die Teilnehmenden Bilder von Personen in spezifizie
 
 Beim Erzeugen von Bildern die möglicherweise Markenschutzrechte verletzen ist es bemerkenswert, dass beispielsweise ChatGPT keine Bilder einer Lila Kuh auf einer Schokoladenverpackung erzeugen kann. Es scheint dies zu unterdrücken. Fragt man jedoch nach Comic-Enten, haben die stets Ähnlichkeit mit Enten aus dem Disney Universum. Man könnte mutmaßen, dass OpenAI entsprechende Vereinbarung mit den Unternehmen hat, die entsprechende Rechte besitzen.
 
-## Was lernen wir in dieser Übung?
+## Was lernen wir in dieser Session?
 
 Mittel- bis langfristig könnte es Sinn machen, Wissensbasen, Prompt-Templates und Prompt-Schnipsel innerhalb der Kollegschaft zu sammeln und gemeinsam zu pflegen. Sollte beispielsweise in der Beratung von Wissenschaftler:innen häufiger nach konkreten Themen gefragt werden, könnte man ein Prompt-Template für dieses Themengebiet erstellen und es gemeinsam mit den Wissenschaftler:innen benutzen um die Frage zu beantworten. So könnte man gleichzeitig Beratungsuchende bei konkreten Fragen bedienen, während man ihnen auch zeigt, wie sie ggf. selbst solche Fragen mittels Sprachmodellen beantworten können. Gerade hierfür wäre es wichtig Grenzen aufzuzeigen. Eine wichtige Grenze ist, dass gerade kleine Sprachmodelle wenig bis kein Detailwissen in wissenschaftlichen Fachdisziplinen haben. Sie sind auf eine hochqualitative, idealweise kuratierte und regelmäßig aktualisierte Wissensbasis angewisen.
 

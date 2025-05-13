@@ -13,8 +13,8 @@
 
 10:00 - 11:30 Übungen
 * [Text-Generierung](session1/text_generation.md)
-* [Wissensdestillation](session1/wissensdestillation.md)
 * [KI-gestützte Beratung / Implementierung eines eigenen ChatBots](session1/chatbot.md)
+* [Wissensdestillation](session1/wissensdestillation.md)
 * [Bildgenerierung](session1/bildgenerierung.md)
 
 11:30 - 12:00 Sprachmodelle zum Suchen in Dokumenten und zur Datenanalyse

@@ -13,7 +13,11 @@ Systeme wie [ChatGPT](https://chat.openai.com/) haben die Fähigkeit auch tabell
 Sie können dann das KI-System mit diesem Prompt instruieren:
 
 ```
-Befülle die gegebene CSV-Datei mit realistisch aussehenden, zufälligen Daten. Die Studierenden sind in der Regel aus den Studiengängen "BSc Informatik" und "BSc Digital Humanities". Sie sind mindestens im 2. Fachsemester, im Mittel im 6. Semester und es gibt ein paar Ausreißer im 10. Semester.
+Befülle die gegebene CSV-Datei mit realistisch aussehenden, zufälligen Daten. 
+Die Studierenden sind in der Regel aus den Studiengängen 
+"BSc Informatik" und "BSc Digital Humanities". 
+Sie sind mindestens im 2. Fachsemester, im Mittel im 6. Semester und 
+es gibt ein paar Ausreißer im 10. Semester.
 ```
 
 ![](studi_data_gen.png)
@@ -29,7 +33,8 @@ Sie können diese Tabelle nun problemlos in beliebige Online-Plattformen zur Dat
 Im Einfachsten Fall arbeiten Sie einfach weiter in ChatGPT und fragen unsere oben angerissene Fragestellung:
 
 ```
-Ich möchte bitte die Verteilung des Fachsemesters als Histogram sehen und ein Kuchendiagramm des Studiengangs aus dem die Studierenden sind.
+Ich möchte bitte die Verteilung des Fachsemesters als Histogram sehen und 
+ein Kuchendiagramm des Studiengangs aus dem die Studierenden sind.
 ```
 
 ![](analyse_studi_data.png)

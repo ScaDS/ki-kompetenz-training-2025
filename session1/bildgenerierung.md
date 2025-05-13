@@ -7,7 +7,11 @@
 
 ### Bias
 
-Beim Generieren von Bildern lassen sich besonders gut Effekte wie Bias in den Trainingsdaten studieren. Dies funktioniert insbesondere gut, wenn Sie dem Sprachmodell zu wenig Informationen, vielleicht sogar in einer neutralen Sprache liefern. Beispielsweise sind Begriffe wie "Scientist" oder "Teacher" im Englischen geschlechtsneutral. Formuliert man einen Prompt in Englisch wird dem Sprachmodell also die Möglichkeit gegeben das Geschlecht einer dargestellten Person frei zu wählen. Diese Wahl trifft es aufgrund der Verteilung von Geschlechtern in Trainingsdaten. 
+Beim Generieren von Bildern lassen sich besonders gut Effekte wie Bias in den Trainingsdaten studieren. 
+Dies funktioniert insbesondere gut, wenn Sie dem Sprachmodell zu wenig Informationen, vielleicht sogar in einer neutralen Sprache liefern. 
+Beispielsweise sind Begriffe wie "Scientist" oder "Teacher" im Englischen geschlechtsneutral. 
+Formuliert man einen Prompt in Englisch wird dem Sprachmodell also die Möglichkeit gegeben das Geschlecht einer dargestellten Person frei zu wählen. 
+Diese Wahl trifft es aufgrund der Verteilung von Geschlechtern in Trainingsdaten. 
 
 Generieren Sie mehrere (!) Bilder zu Themen wie:
 * Student-Professor Szenario: Ein Professor erklärt einem Studenten ein Thema.

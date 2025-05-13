@@ -1,4 +1,4 @@
-# Spickzettel für Lehrende: Regulatorische und Ethische Aspekte
+# Spickzettel für Lehrende: Verantwortungsvolle Nutzung von Generativer KI und Rechtlicher Rahmen
 
 In dieser Übung diskutieren wir verschiedene rechtliche Rahmenbedingungen beim Einsatz von KI. Wir fokussieren uns insbesondere auf
 * [Datenschutz](https://de.wikipedia.org/wiki/Datenschutz) ([Datenschutz-Grundverordnung](https://de.wikipedia.org/wiki/Datenschutz-Grundverordnung), [DSGVO](https://dejure.org/gesetze/DSGVO))
@@ -37,8 +37,7 @@ Pro:
 * Lokal ausgeführte KI-Systeme sorgen dafür dass der Proposal-Text mein vertrauliche IT-Umgebung nicht verläßt.
 
 Kontra:
-* DFG verbietet dies explizit in ihrer [Stellungnahme zum Einsatz generativer KI](https://www.dfg.de/resource/blob/289674/ff57cf46c5ca109cb18533b21fba49bd/230921-stellungnahme-praesidium-ki-ai-data.pdf 
-).
+* DFG verbietet dies explizit in ihrer [Stellungnahme zum Einsatz generativer KI](https://www.dfg.de/resource/blob/289674/ff57cf46c5ca109cb18533b21fba49bd/230921-stellungnahme-praesidium-ki-ai-data.pdf).
 * Online KI-Systeme erfüllen ggf. Datenschutzregeln nicht.
 * Die Autoren haben der Nutzung ihrer Daten zu diesem Zweck nicht zugestimmt.
 * Entscheidung sollte zwingend vom Menschen getroffen werden. Das ist es worum DFG Reviewer bittet.
@@ -70,4 +69,10 @@ Kontra:
 * Auf der Webseite ist Copyright Uni Leipzig angegeben. Wir dürfen den Text nicht ohne Weiteres benutzen. Wir brauchen die Erlaubnis der Autorin.
 * Das System, eingebettet in die Webseite, könnte benutzt werden, um irreführende Screenshots der Webseite der Uni zu machen.
 
+## Was lernen wir in dieser Session?
 
+Datenschutz, Risikomanagement und Urheberrecht sind wichtige Themen, die bei der Implementierung von KI-Systemen berücksichtigt werden müssen.
+Die Teilnehmenden werden in die Lage versetzt bei konkreten Projekten Risiken zu beschreiben, beteiligte KI-Anbieter / Betreiber, Nutzenden und Betroffene zu identifizeren und die Risiken zu bewerten.
+Eine solche Abwägung erlaubt es den Teilnehmenden Entscheidungen besser zu treffen und Risiken zu minimieren.
+
+Ein wichtiger Anknüpfungspunkt ist der Gedanke "Wer ist verantwortlich?" bei der Nutzung von KI-Systemen. Es sind immer ausschließlich Menschen verantwortlich.

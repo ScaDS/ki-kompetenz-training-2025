@@ -15,7 +15,6 @@ Hier noch die Auflösung für die Verteilung der Fakultäten:
 
 ![](faculties.png)
 
-
 ## Simuliertes Forschungsinformationssystem
 
 Die Teilnehmenden bekommen Zugriff auf drei simulierte Forschungsinformationssysteme, in denen mit LLM-Technologie gesucht werden kann. Ihre Aufgabe ist es, zu ermitteln, welches System zufällige Antworten liefert, welches ein LLM benutzt und welches mit Embeddings arbeitet. Das zufällige System lässt sich einfach ermitteln, da es bei wiederholten Anfragen stark unterschiedliche Antworten liefern wird. Die Relevanz jener Antworten sollte auch sehr klein sein. Die anderen beiden System lassen sich schwieriger unterscheiden. Theoretisch sollte das Embedding-basierte System besser funktionieren und auch schneller antworten. Das LLM-basierte System baut aus der gesamten Datenbank einen sehr langen Prompt und diesen zu verarbeiten dauert mitunter lange.
@@ -32,5 +31,32 @@ Beim Vergleich der beiden System (ChatGPT und Arcanas) sollte auffallen dass Cha
 
 ![](nfdi4bi_arcanas.png)
 
+# Datenanalyse mit generativer KI
 
+Diese Übung wird nur Teilnehmenden Empfohlen die grundlegende Programmierkenntnisse in Python haben. 
+Gerade bei der Verarbeitung komplexerer Daten könnte auffallen, dass ChatGPT und andere Systeme zwar Code generieren, der auf den ersten Blick plausible Ergebnisse erzeugt, aber im Detail keine korrekte Analyse durchführt.
+Im Zweifelsfalle sollte man Datenanalyseexperten hinzuziehen oder direkt in den Chat mit dem KI-System einbinden, wie [hier skizziert](https://www.nature.com/articles/s43588-025-00781-1).
+
+## Bias-Detektion
+
+In dieser Übung nutzen wir eine Chat-App um Bias in Texten zu identifizieren. Die Teilnehmenden bekommen ein Meetingprotokoll einer fiktiven Sitzung, 
+in der drei männliche Teilnehmer ein Symposium planen, bei der nur Männer Vortragende sind. 
+Außerdem ist einer der drei Vortragenden mutmaßlich nicht qualifiziert über das vorgegebene Thema zu sprechen.
+
+Fragt man ChatGPT ob in dem Meeting-Protokoll problematische Aspekte sind, wird es den Gender-Bias oft nicht erkennen.
+Erst wenn man explizit nach Diversität fragt, wird es darauf aufmerksam und kann ggf. auch Verbesserungsvorschläge machen.
+
+## Was lernen wir in dieser Session?
+
+Das Extrahieren von Informationen aus Text-Dokumenten oder Datenbanken erfordert spezielle technische Vorgehensweisen. 
+Gerade wenn Daten zu groß werden, dass man sie einfach in ChatGPT und Co kopieren kann, braucht man spezielle Technische Systeme. 
+Die Auswahl eines solchens Systems ist nicht trivial und erforder Betrachtung von mehreren Perspektiven:
+* Qualität der Ergebnisse
+* Datenschutz
+* Kosten
+* Benutzerfreundlichkeit
+
+Weiterhin ist Prompt-Engineering oft nicht nur ein iterativer Prozess, sondern auch vorwärts und rückwärts gerichteter Prozess.
+Bevor wir nach Code zur Analyse von Daten fragen können, müssen wir Fake-Daten erzeugen, damit wir die richtige Struktur von Daten in ein Chat-System füttern können.
+Wir müssen auch in der Lage sein Code zu lesen und zu verstehen. Andernfalls laufen wir Gefahr Daten fehlerhaft zu verarbeiten und die falschen Schlußfolgerungen zu ziehen.
 

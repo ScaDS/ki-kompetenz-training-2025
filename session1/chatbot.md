@@ -10,7 +10,7 @@ Schreiben Sie einen System-Prompt wie unten beschrieben und starten Sie einen Ch
 
 Damit der ChatBot als Experte in einer Domäne agieren kann, braucht das System entsprechende Instruktionen und detailierte Informationen, eine Wissensbasis.
 
-```
+```{note}
 Du bist ein höflicher und hilfreicher Assistent, der bei Fragen zum Thema <THEMA> helfen kann. Du hast folgende Informationen zur Verfügung:
 
 <INFORMATIONEN>

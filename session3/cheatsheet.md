@@ -5,7 +5,8 @@ In dieser Übung diskutieren wir verschiedene rechtliche Rahmenbedingungen beim 
 * [Urheberrecht](https://de.wikipedia.org/wiki/Urheberrecht) ([UrhG](https://www.gesetze-im-internet.de/urhg/))
 * [EU AI Act](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202401689)
 
-Unsere ehemalige Kollegin Dr. Julia Möller-Lapperich hat das Thema KI-Kompetenzen sehr gut in [diesem Artikel zusammengefasst](https://www.nomos.de/wp-content/uploads/2025/04/Aufsatz_NJ_2025_05.pdf).
+Unsere ehemalige Kollegin Dr. Julia Möller-Lapperich hat das Thema KI-Kompetenzen sehr gut in [diesem Artikel zusammengefasst](https://www.nomos.de/wp-content/uploads/2025/04/Aufsatz_NJ_2025_05.pdf). 
+Auch die AI-Abteilung der EU hat ein übersichtliches [FAQ-Dokument](https://digital-strategy.ec.europa.eu/en/library/living-repository-foster-learning-and-exchange-ai-literacy) veröffentlicht.
 
 ## Einordnung unserer Einrichtung
 

@@ -1,17 +1,16 @@
 
-# Imprint 
+# Impressum 
 
-## Impressum
-### Angaben gemäß § 5 TMG
+## Angaben gemäß § 5 TMG
 
 Dr. rer. medic. Robert Haase\
 
 
-### Kontakt
+## Kontakt
 Telefon: +49 341 97 39309\
 E-Mail: robert.haase (at] uni-leipzig.de
 
-### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
+## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 Dr. rer. medic. Robert Haase\
 ScaDS.AI Dresden / Leipzig\
 Universität Leipzig\

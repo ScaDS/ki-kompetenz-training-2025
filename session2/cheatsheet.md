@@ -21,11 +21,13 @@ Die Teilnehmenden bekommen Zugriff auf drei simulierte Forschungsinformationssys
 
 Hinweis: Das dahinter liegende Sprachmodell ist OpenAI's GPT-4o-mini. Daher sollten keine Personen-bezogenen oder geheimen Daten in das Suchfeld eingegeben werden. 
 
+![](fis.png)
+
 ## Analyse von Fördermittelanträgen
 
-Eine häufige Anwendung von Sprachmodellen ist eine Kombination mit indizierten Dokumenten. Die zugrundeliegende Technik ([Retrieval Augmented Generation, RAG](https://en.wikipedia.org/wiki/Retrieval-augmented_generation))
+Eine häufige Anwendung von Sprachmodellen ist eine Kombination mit indizierten Dokumenten. Die zugrundeliegende Technik heißt [Retrieval Augmented Generation, RAG](https://en.wikipedia.org/wiki/Retrieval-augmented_generation).
 
-Beim Vergleich der beiden System (ChatGPT und Arcanas) sollte auffallen dass ChatGPT ein besseres User-Interface hat, um bspw. Quellenangaben zu machen. Das Arcanas System ist hingegen so implementiert, dass man es beispielsweise innerhalb der Uni Leipzig installieren könnte und somit Datenschutzkonformität auf höchsgem Niveau garantieren _könnte_.
+Beim Vergleich der beiden Systeme (ChatGPT und Arcanas) sollte auffallen, dass ChatGPT ein besseres User-Interface hat, um bspw. Quellenangaben zu machen. Das Arcanas System ist hingegen so implementiert, dass man es beispielsweise innerhalb der Uni Leipzig installieren könnte und somit Datenschutzkonformität auf höchsgem Niveau garantieren _könnte_.
 
 ![](nfdi4bi_chatgpt.png)
 

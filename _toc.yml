@@ -21,7 +21,7 @@ parts:
 
   - caption: Rechtliche & Ethische Aspekte beim Einsatz von KI
     chapters:
-    - file: session4/README.md
+    - file: session3/README.md
 
   - caption: Diskussion & Ausblick
     chapters:

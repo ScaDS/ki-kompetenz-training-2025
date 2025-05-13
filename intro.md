@@ -7,13 +7,15 @@
 9:30 - 10:00 Einführung und Grundlagen
 * Einführung in Künstliche Intelligenz, KI-Systeme und Sprachmodelle
 * Anwendungsgebiete und Grenzen von KI bei der Text-Generierung
-* Prompt-Engineering, Prompten mit großem Kontext
-
-10:00 - 11:30 [Übungen](session1/README.md)
-* Text-Generierung 
+* Prompt-Engineering
+* Prompten mit großem Kontext
 * Wissensdestillation
-* KI-gestützte Beratung / Implementierung eines eigenen ChatBots
-* Bildgenerierung (optional)
+
+10:00 - 11:30 Übungen
+* [Text-Generierung](session1/text_generation.md)
+* [Wissensdestillation](session1/wissensdestillation.md)
+* [KI-gestützte Beratung / Implementierung eines eigenen ChatBots](session1/chatbot.md)
+* [Bildgenerierung](session1/bildgenerierung.md)
 
 11:30 - 12:00 Sprachmodelle zum Suchen in Dokumenten und zur Datenanalyse
 * Embeddings und Retrieval-Augmented Generation
@@ -21,28 +23,25 @@
 
 12:00 - 13:00 Mittagspause
 
-13:00 - 14:00 [Übungen](session2/README.md)
-  * Arbeiten mit einem fiktiven KI-gestützten Forschungsinformationssystem
-  * Durchsuchen von Fördermittelanträgen mittels KI
-  * Datenanalyse, Daten- und Code-Generierung
-  * Bias-Detektion
-  * Vergleich verschiedener Sprachodelle und KI-Systeme (ChatGPT, Helmholtz Blablador, GWDG/KISSKI ChatAI)
+13:00 - 14:00 Übungen
+  * [Arbeiten mit einem fiktiven KI-gestützten Forschungsinformationssystem](session2/simuliertes_fis.md)
+  * [Durchsuchen von Fördermittelanträgen mittels KI](session2/proposal_durchsuchen.md)
+  * [Datenanalyse, Daten- und Code-Generierung](session2/ai_data_analysis_.md)
+  * [Bias-Detektion](session2/bias_detektion.md)
 
-14:00 - 14:45 Verantwortungsvolle Nutzung von Sprachmodellen
-* Datenschutzkonforme Nutzung, Anonymisierung
-* Copyright-Aspekte
-* Ethische Aspekte
+14:00 - 14:45 Verantwortungsvolle Nutzung von Generativer KI und Rechtlicher Rahmen
+* Datenschutzkonforme Nutzung
+* Urheberrecht
+* EU AI Act
 
 14:45 - 15:30 Diskussion
-  * Anonymisierung/Pseudonymisierung von Dokumenten
   * Dürfen wir das? Praktische Beispiele
   * Risiko-Bewertungen
 
 15:30 - 16:30 [Ausblick und freie Exploration](session4/README.md)
 * Aufkommende KI-basierte Techniken
-* Generierung von Grafiken, Präsentationsfolien
-* Übung 
-  * Diskussion und freies Experimentieren mit Sprachmodellen (90 min)
+* Generierung von Podcasts, Grafiken, Präsentationsfolien
+* Übung: Diskussion und freies Experimentieren mit Sprachmodellen
 * Feedbackrunde
 
 ## Trainer

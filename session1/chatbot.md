@@ -2,9 +2,13 @@
 
 In dieser Übung werden wir einen ChatBot so instruieren, dass das System Fragen bezüglich einer bestimmten Topic beantworten kann. Wir können dann das System mit vorhandenen Chatbots zum gleichen Thema vergleichen.
 
-## Instruktionen
+## Die Aufgabe
 
-Damit der ChatBot als solcher agiert, braucht das System entsprechende Instruktionen.
+Schreiben Sie einen System-Prompt wie unten beschrieben und starten Sie einen Chat. Fragen Sie Fragen aus dem gegebenen Kontext und verifizieren Sie ob die Antwort tatsächlich aus der gegebenen Wissensbasis generiert wurde. Fragen Sie auch nach Themen außerhalb des Themengebiets: Kann der auf Gute Wissenschaftliche Praxis spezialisierte ChatBot Kochrezepte schreiben? Kann ein ChatBot der auf DatenManagementPläne spezialisiert ist auch Auskunft zu regionalen Ausflugszielen geben?
+
+## So geht's
+
+Damit der ChatBot als Experte in einer Domäne agieren kann, braucht das System entsprechende Instruktionen und detailierte Informationen, eine Wissensbasis.
 
 ```
 Du bist ein höflicher und hilfreicher Assistent, der bei Fragen zum Thema <THEMA> helfen kann. Du hast folgende Informationen zur Verfügung:

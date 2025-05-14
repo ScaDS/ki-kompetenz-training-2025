@@ -1,14 +1,14 @@
 # Erstellen eines eigenen Chatbots
 
-In dieser Übung werden wir einen ChatBot so instruieren, dass das System Fragen bezüglich einer bestimmten Topic beantworten kann. Wir können dann das System mit vorhandenen Chatbots zum gleichen Thema vergleichen.
+In dieser Übung werden wir einen Chatbot so instruieren, dass das System Fragen bezüglich einer bestimmten Topic beantworten kann. Wir können dann das System mit vorhandenen Chatbots zum gleichen Thema vergleichen.
 
 ## Die Aufgabe
 
-Schreiben Sie einen System-Prompt wie unten beschrieben und starten Sie einen Chat. Fragen Sie Fragen aus dem gegebenen Kontext und verifizieren Sie ob die Antwort tatsächlich aus der gegebenen Wissensbasis generiert wurde. Fragen Sie auch nach Themen außerhalb des Themengebiets: Kann der auf Gute Wissenschaftliche Praxis spezialisierte ChatBot Kochrezepte schreiben? Kann ein ChatBot der auf DatenManagementPläne spezialisiert ist auch Auskunft zu regionalen Ausflugszielen geben?
+Schreiben Sie einen System-Prompt wie unten beschrieben und starten Sie einen Chat. Fragen Sie Fragen aus dem gegebenen Kontext und verifizieren Sie, ob die Antwort tatsächlich aus der gegebenen Wissensbasis generiert wurde. Fragen Sie auch nach Themen außerhalb des Themengebiets: Kann der auf Gute Wissenschaftliche Praxis spezialisierte Chatbot Kochrezepte schreiben? Kann ein Chatbot, der auf Datenmanagementpläne spezialisiert ist, auch Auskunft zu regionalen Ausflugszielen geben?
 
 ## So geht's
 
-Damit der ChatBot als Experte in einer Domäne agieren kann, braucht das System entsprechende Instruktionen und detailierte Informationen, eine Wissensbasis.
+Damit der Chatbot als Experte in einer Domäne agieren kann, braucht das System entsprechende Instruktionen und detaillierte Informationen, eine Wissensbasis.
 
 ```
 Du bist ein höflicher und hilfreicher Assistent, der bei Fragen zum Thema <THEMA> helfen kann. 
@@ -36,7 +36,7 @@ Für diese Übung stehen verschiedene Themen zur Auswahl.
 
 ## KI-Systeme
 
-Zur Implementierung des modifizierten ChatBots können diese Systeme genutzt werden:
+Zur Implementierung des modifizierten Chatbots können diese Systeme genutzt werden:
 * [ChatGPT](https://chat.openai.com/)
 * [Claude](https://claude.ai)
 * [Gemini](https://gemini.google.com/app)
@@ -47,9 +47,9 @@ Zur Implementierung des modifizierten ChatBots können diese Systeme genutzt wer
 
 Erweitern Sie den Prompt durch weitere Instruktionen, wie beispielsweise:
 * `Du bist Juristin mit Spezialgebiet <THEMA> und antwortest in für Juristen typischer Sprache.`
-* `Du bist Leherin in der Sekundarstufe und antwortest in einer Sprache, die für Teenager verständlich ist.`
+* `Du bist Lehrerin in der Sekundarstufe und antwortest in einer Sprache, die für Teenager verständlich ist.`
 * `Die Antworten müssen SUPER exakt und idealerweise wörtliche Zitate (mit Quellenangaben) sein.`
-* `Es ist SUPER SUPER WICHTIG das die Antworten korrekt sind. Wenn ich hier was falsch mache, werde ich entlassen.`
+* `Es ist SUPER SUPER WICHTIG, dass die Antworten korrekt sind. Wenn ich hier was falsch mache, werde ich entlassen.`
 
 Ändern Sie die Perspektive der Diskussion. Instruieren Sie die ChatApp beispielsweise so:
 ```
@@ -72,3 +72,5 @@ um <DOKUMENT> für mich zu schreiben.
 ### Schreiben eines DMPs
 
 ![](dmp_chatbot.png)
+
+---

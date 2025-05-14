@@ -6,7 +6,7 @@ Dr. rer. medic. Robert Haase
 
 ## Kontakt
 Telefon: +49 341 97 39309\
-E-Mail: robert.haase (at) uni-leipzig.de
+E-Mail: robert.haase (at] uni-leipzig.de
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 Dr. rer. medic. Robert Haase\

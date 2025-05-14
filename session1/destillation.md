@@ -4,18 +4,18 @@ Um ein KI-System mit Wissen aus einer konkreten Domäne zu füttern, müssen wir
 
 ## Aufgabe
 
-* Destillieren Sie Wissen über ein Thema Ihrer Wahl aus einem großen Sprachmodell, bspw [ChatGPT](https://chat.openai.com/), [Claude](https://claude.ai/) oder [Gemini](https://gemini.google.com/app).
+* Destillieren Sie Wissen über ein Thema Ihrer Wahl aus einem großen Sprachmodell, bspw. [ChatGPT](https://chat.openai.com/), [Claude](https://claude.ai/) oder [Gemini](https://gemini.google.com/app).
 * Kuratieren Sie die generierte Wissensbasis (Tipp: setzen Sie sich ein Zeitlimit)
-* Testen Sie ein Chat-System mit und ohne der Wissensbasis einem kleinen Sprachmodell, beispielsweise mit zwei Chat-Fenstern nebeneinander. Nutzen Sie hierfür Angebote wie [Blablador](https://helmholtz-blablador.fz-juelich.de/) und [ChatAI](chat-ai.academiccloud.de).
+* Testen Sie ein Chat-System mit und ohne die Wissensbasis mit einem kleinen Sprachmodell, beispielsweise mit zwei Chat-Fenstern nebeneinander. Nutzen Sie hierfür Angebote wie [Blablador](https://helmholtz-blablador.fz-juelich.de/) und [ChatAI](chat-ai.academiccloud.de).
 
-Hinweis: Um vom Chat-Modell unbeeinflußte Antworten zu erhalten, starten sie vor jeder neuen Frage einen neuen Chat oder löschen Sie die Chat-Historie.
+Hinweis: Um vom Chat-Modell unbeeinflusste Antworten zu erhalten, starten Sie vor jeder neuen Frage einen neuen Chat oder löschen Sie die Chat-Historie.
 
 ## Beispielthemen und -prompts
 
-Im Folgenden erhalten Sie jeweils zwei Prompts. Der Erste Prompt dient dazu eine Wissensbasis zu generieren. 
-Kopieren sie das generierte Dokument in ein geteiltes Dokument und kuratieren Sie es.
-Anschließende fügen Sie die kuratierte Wissensbasis in den zweiten Prompt ein.
-Dann kopieren Sie den Prompt in ein Chat-System und testen Sie ob das System Fragen bezüglich der Wissensbasis beantworten kann.
+Im Folgenden erhalten Sie jeweils zwei Prompts. Der erste Prompt dient dazu, eine Wissensbasis zu generieren. 
+Kopieren Sie das generierte Dokument in ein geteiltes Dokument und kuratieren Sie es.
+Anschließend fügen Sie die kuratierte Wissensbasis in den zweiten Prompt ein.
+Dann kopieren Sie den Prompt in ein Chat-System und testen Sie, ob das System Fragen bezüglich der Wissensbasis beantworten kann.
 Testen Sie auch, ob das System Fragen außerhalb des Themas beantwortet.
 Eigentlich sollte es das nicht.
 
@@ -23,9 +23,9 @@ Eigentlich sollte es das nicht.
 
 Prompt zur Wissensdistillation:
 ```
-Du bist eine Expertin in Forschungförderung. 
+Du bist eine Expertin in Forschungsförderung. 
 Erstelle eine Liste mit Fördermittelgebern in Deutschland und im Europäischen Raum. 
-Für jeden Fördermitttelgeber liste auf:
+Für jeden Fördermittelgeber liste auf:
 * Welche Projekte und Themen sie typischerweise fördern.
 * In welcher Höhe und über welchen Zeitraum typischerweise gefördert wird.
 * Typische Rahmenbedingungen
@@ -39,7 +39,7 @@ Zur Beantwortung der Frage steht Dir ausschließlich diese Wissensbasis zur Verf
 
 <Wissensbasis>
 
-Wenn die Anwort auf die Frage nicht oben gegeben ist, sag dass Du es nicht weißt und 
+Wenn die Antwort auf die Frage nicht oben gegeben ist, sag dass Du es nicht weißt und 
 verweise auf unsere Beratungszeiten (Mo-Do 12-14 Uhr).
 ```
 
@@ -61,7 +61,7 @@ Zur Beantwortung der Frage steht Dir ausschließlich diese Wissensbasis zur Verf
 
 <Wissensbasis>
 
-Wenn die Anwort auf die Frage nicht oben gegeben ist, sag dass Du es nicht weißt und
+Wenn die Antwort auf die Frage nicht oben gegeben ist, sag dass Du es nicht weißt und
 verweise auf unsere Beratungszeiten (Mo-Do 12-14 Uhr).
 ```
 
@@ -83,8 +83,7 @@ Zur Beantwortung der Frage steht Dir ausschließlich diese Wissensbasis zur Verf
 
 <Wissensbasis>
 
-Wenn die Anwort auf die unten gegebenen Frage nicht oben gegeben ist, sag dass Du es nicht 
+Wenn die Antwort auf die unten gegebene Frage nicht oben gegeben ist, sag dass Du es nicht 
 weißt und verweise auf unsere Projektmanagementtraining vom 28.-29. Juni 2025: 
 https://fortbildung.uni-leipzig.de/fortbildung.html?id=2306
 ```
-

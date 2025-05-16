@@ -18,7 +18,7 @@ Beim Einordnen der Universität im Sinne des EU AI-Act sind wir:
 
 Verschiedenste Anwendungen von KI im Universitätskontext sind denkbar:
 * Beispiel KI mit inakzeptablem Risiko: Kameras in Seminarräumen (bspw. Online-Konferenz-Systeme) könnten benutzt werden, um Menschen zu überwachen, ihre Aufmerksamkeit zu messen und ggf. solche Informationen zu sammeln und an Lehrende oder Vorgesetzte weiterzugeben. Anwendungen dieser Art sind verboten.
-* Hochrisiko-KI: KI-Systeme könnten eingesetzt werden, um Studienbewerber zu screenen und ggf. sogar Entscheidungen bzgl. Immatrikulation zu stellen. Die Anforderungen an solche Anwendungen sind sehr hoch. Die KI-Betreiber müssten das System und dessen Abläufe und Entscheidungen umfassend dokumentieren. Entscheidungen müssen von Menschen überwacht werden. Nutzende haben das Recht Einsicht in die Entscheidungsprozesse zu erhalten und ggf. KI-basierte, automatisierte Entscheidungen zu revidieren. Die Anforderungen sind so hoch, dass eine Einführung eines solchen Systems auf absehbare Zeit äußerst unwahrscheinlich ist.
+
 * Hochrisiko-KI: Im medizinischen Umfeld, bspw. an Universitätskliniken, streben verschiedene KI-Systeme auf den Markt, die Abläufe optimieren. So kann man beispielsweise Arztbriefe automatisch generieren, wenn ein KI-System Zugang zu Patientendatenbanken hat. Hieraus ergeben sich zahlreiche Risiken, insbesondere im Kontext Datenschutz und hinsichtlich optimaler und ethischer Versorgung der Patienten. Die Tatsache, dass zahlreiche Firmen an Produkten für solche Anwendungen arbeiten, deutet darauf hin, dass Generative KI mittelfristig in Krankenhäusern einen Platz einnehmen wird. Auch hier ist es entscheidend Abläufe zu implementieren bei der Menschen Entscheidungen selbst fällen und KI-unterstützte Prozesse transparent dokumentiert sind.
 * Systematisches Risiko: Studierende und Forschende nutzen ChatGPT und andere ähnliche Anwendungen für Studium und Forschung. Die Konsequenzen sind mitunter schwer abzusehen. Offensichtlich lernen Studierende, die Zugang zu scheinbar allwissenden ChatApps haben anders, als Studierende die im Vor-Internetzeitalter in die Bibliothek gehen mussten um Antworten zu finden. Es besteht das Risiko, dass die Qualität des Wissenstransfers abnimmt, wenn beispielsweise die Lehrenden nicht im Umgang mit KI geschult werden.
 * Minimales Risiko: Der Email-Spamfilter, der im Rechenzentrum dafür sorgt, dass automatisch Emails ausgefiltert oder als Spam markiert werden, birgt Risiken wie beispielsweise dass wir Email nicht bekommen. 
@@ -27,6 +27,18 @@ Verschiedenste Anwendungen von KI im Universitätskontext sind denkbar:
 ## Dürfen wir das?
 
 Anhand einiger Beispiele wollen wir diskutieren, ob gegebene Beispielanwendungen und Szenarien machbar sind. Entscheidungen sind nicht trivial und erfordern genaues Abwägen.
+
+### Einsatz eines LLMs zum Screenen von Studierenden
+
+Domäne: Personalwesen
+Zweck: Automatisierte Entscheidungsfindung bzgl Bewerberauswahl
+Fähigkeiten: Dokumentenverarbeitung, Rating von pot. Studierenden
+KI-Anbieter: unklar
+Betroffen: potentiell Studierende
+
+Risiko Einschätzung: Hochrisiko-KI
+
+KI-Systeme könnten eingesetzt werden, um Studienbewerber zu screenen und ggf. sogar Entscheidungen bzgl. Immatrikulation zu stellen. Die Anforderungen an solche Anwendungen sind sehr hoch. Die KI-Betreiber müssten das System und dessen Abläufe und Entscheidungen umfassend dokumentieren. Entscheidungen müssen von Menschen überwacht werden. Nutzende haben das Recht Einsicht in die Entscheidungsprozesse zu erhalten und ggf. KI-basierte, automatisierte Entscheidungen zu revidieren. Die Anforderungen sind so hoch, dass eine Einführung eines solchen Systems auf absehbare Zeit äußerst unwahrscheinlich ist.
 
 ### Review eines DFG-Proposals
 

@@ -32,7 +32,10 @@ parts:
 
   - caption: Diskussion & Ausblick
     chapters:
-    - file: session4/README.md
+    - url: https://github.com/ScaDS/ki-kompetenz-training-2025/blob/main/session4/KIKT4_Ausblick.pdf?raw=True
+      title: Folien
+
+
 
   - caption: Weitere Informationen
     chapters:

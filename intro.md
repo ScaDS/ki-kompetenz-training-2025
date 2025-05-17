@@ -4,7 +4,7 @@
 
 ## Programm
 
-9:30 - 10:00 Einführung und Grundlagen
+9:30 - 10:00 [Einführung und Grundlagen](https://github.com/ScaDS/ki-kompetenz-training-2025/blob/main/session1/KIKT1_Intro.pdf?raw=True)
 * Einführung in Künstliche Intelligenz, KI-Systeme und Sprachmodelle
 * Anwendungsgebiete und Grenzen von KI bei der Text-Generierung
 * Prompt-Engineering
@@ -17,9 +17,10 @@
 * [Wissensdestillation](session1/wissensdestillation.md)
 * [Bildgenerierung](session1/bildgenerierung.md)
 
-11:30 - 12:00 Sprachmodelle zum Suchen in Dokumenten und zur Datenanalyse
+11:30 - 12:00 [Sprachmodelle zum Suchen in Dokumenten und zur Datenanalyse](https://github.com/ScaDS/ki-kompetenz-training-2025/blob/main/session2/KIKT2_Advanced.pdf?raw=True)
 * Embeddings und Retrieval-Augmented Generation
 * Datenanalyse, Daten- und Code-Generierung
+* Weitere Prompt-Engineering Tips
 
 12:00 - 13:00 Mittagspause
 
@@ -29,7 +30,7 @@
 * [Datenanalyse, Daten- und Code-Generierung](session2/ai_data_analysis.md)
 * [Bias-Detektion](session2/bias_detektion.md)
 
-14:00 - 14:45 Verantwortungsvolle Nutzung von Generativer KI und Rechtlicher Rahmen
+14:00 - 14:45 [Verantwortungsvolle Nutzung von Generativer KI und Rechtlicher Rahmen](https://github.com/ScaDS/ki-kompetenz-training-2025/blob/main/session3/KIKT3_ResponsibleAI.pdf?raw=True)
 * Datenschutzkonforme Nutzung
 * Urheberrecht
 * EU AI Act

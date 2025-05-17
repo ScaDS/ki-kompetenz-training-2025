@@ -10,7 +10,7 @@ parts:
   - caption: Grundlagen Generativer KI
     chapters:
     - url: https://github.com/ScaDS/ki-kompetenz-training-2025/blob/main/session1/KIKT1_Intro.pdf?raw=True
-      title: Einführung
+      title: Einführung (Folien)
     - file: session1/rede-generierung.md
     - file: session1/chatbot.md
     - file: session1/destillation.md
@@ -18,6 +18,8 @@ parts:
 
   - caption: Datenanalyse mit Generativer KI
     chapters:
+    - url: https://github.com/ScaDS/ki-kompetenz-training-2025/blob/main/session2/KIKT2_Advanced.pdf?raw=True
+      title: Funktiosweise + Datenanalyse (Folien)
     - file: session2/simuliertes_fis.md
     - file: session2/proposal_durchsuchen.md
     - file: session2/ai_data_analysis_.md

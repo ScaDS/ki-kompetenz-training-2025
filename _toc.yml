@@ -4,7 +4,9 @@
 format: jb-book
 root: intro
 parts:
-  - file: session0/vorbereitung.md
+  - caption: Vor dem Training
+    chapters:
+    - file: session0/vorbereitung.md
   - caption: Grundlagen Generativer KI
     chapters:
     - url: https://github.com/ScaDS/ki-kompetenz-training-2025/blob/main/session1/KIKT1_Intro.pdf?raw=True

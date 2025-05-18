@@ -21,7 +21,7 @@ Eigentlich sollte es das nicht.
 
 ### Forschungsförderung
 
-Prompt zur Wissensdistillation:
+Prompt zur Wissensdestillation:
 ```
 Du bist eine Expertin in Forschungsförderung. 
 Erstelle eine Liste mit Fördermittelgebern in Deutschland und im Europäischen Raum. 
@@ -45,7 +45,7 @@ verweise auf unsere Beratungszeiten (Mo-Do 12-14 Uhr).
 
 ### Spezielle Förderung von Vereinbarkeit von Familie und Beruf für Nachwuchswissenschaftler:innen
 
-Prompt zur Wissensdistillation:
+Prompt zur Wissensdestillation:
 ```
 Du bist Expertin für Forschungsförderung spezialisiert auf die 
 Bedürfnisse von Nachwuchswissenschaftler:innen, die kleine Kinder 
@@ -68,7 +68,7 @@ verweise auf unsere Beratungszeiten (Mo-Do 12-14 Uhr).
 
 ### Projektmanagement
 
-Prompt zur Wissensdistillation:
+Prompt zur Wissensdestillation:
 ```
 Du bist professionelle Projektmanagerin und Beraterin im Wissenschaftsbereich. 
 Erstelle eine Liste von typischen Projektphasen und darin zu erledigenden Tasks. 

@@ -12,22 +12,22 @@
 * Wissensdestillation
 
 10:00 - 11:30 Übungen
-* [Text-Generierung](session1/text_generation.md)
+* [Text-Generierung](session1/rede-generierung.md)
 * [KI-gestützte Beratung / Implementierung eines eigenen ChatBots](session1/chatbot.md)
-* [Wissensdestillation](session1/wissensdestillation.md)
+* [Wissensdestillation](session1/destillation.md)
 * [Bildgenerierung](session1/bildgenerierung.md)
 
 11:30 - 12:00 [Sprachmodelle zum Suchen in Dokumenten und zur Datenanalyse](https://github.com/ScaDS/ki-kompetenz-training-2025/blob/main/session2/KIKT2_Advanced.pdf?raw=True)
 * Embeddings und Retrieval-Augmented Generation
 * Datenanalyse, Daten- und Code-Generierung
-* Weitere Prompt-Engineering Tips
+* Weitere Prompt-Engineering Tipps
 
 12:00 - 13:00 Mittagspause
 
 13:00 - 14:00 Übungen
 * [Arbeiten mit einem fiktiven KI-gestützten Forschungsinformationssystem](session2/simuliertes_fis.md)
 * [Durchsuchen von Fördermittelanträgen mittels KI](session2/proposal_durchsuchen.md)
-* [Datenanalyse, Daten- und Code-Generierung](session2/ai_data_analysis.md)
+* [Datenanalyse, Daten- und Code-Generierung](session2/ai_data_analysis_.md)
 * [Bias-Detektion](session2/bias_detektion.md)
 
 14:00 - 14:45 [Verantwortungsvolle Nutzung von Generativer KI und Rechtlicher Rahmen](https://github.com/ScaDS/ki-kompetenz-training-2025/blob/main/session3/KIKT3_ResponsibleAI.pdf?raw=True)
@@ -39,7 +39,7 @@
 * Dürfen wir das? Praktische Beispiele
 * Risiko-Bewertungen
 
-15:30 - 16:30 [Ausblick und freie Exploration](session4/README.md)
+15:30 - 16:30 [Ausblick und freie Exploration](https://github.com/ScaDS/ki-kompetenz-training-2025/blob/main/session4/KIKT4_Ausblick.pdf?raw=True)
 * Aufkommende KI-basierte Techniken
 * Generierung von Podcasts, Grafiken, Präsentationsfolien
 * Übung: Diskussion und freies Experimentieren mit Sprachmodellen

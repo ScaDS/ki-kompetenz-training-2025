@@ -1,6 +1,6 @@
 # Vorbereitung
 
-Für das KI-Kompetentz-Training müssen Sie eigentlich nur ihren Dienstlaptop und ein Ladegerät mitbringen.
+Für das KI-Kompetenz-Training müssen Sie eigentlich nur ihren Dienstlaptop und ein Ladegerät mitbringen.
 
 Wir werden während des Trainings einige Sprachmodelle akademischer und kommerzieller Anbieter benutzen und mitunter vergleichen. Zur Vorbereitung des Kurses wäre es daher von Vorteil, wenn Teilnehmende bereits Konten bei einigen dieser Anbieter hätten:
 * [Helmholtz Blablador](https://helmholtz-blablador.fz-juelich.de/) (akademischer Anbieter)
@@ -10,7 +10,7 @@ Wir werden während des Trainings einige Sprachmodelle akademischer und kommerzi
 * [You.com](https://you.com) (Kommerzieller Anbieter)
 * [Google Gemini](https://gemini.google.com/) (Kommerzieller Anbieter)
 
-Wenn Sie unsicher sind, bei welchen Anbietern sie ein Konto anlegen möchten und bei welchen nicht, können Sie diese Entscheidung auch gerne bis zum Training aufschieben.
+Wenn Sie unsicher sind, bei welchen Anbietern Sie ein Konto anlegen möchten und bei welchen nicht, können Sie diese Entscheidung auch gerne bis zum Training aufschieben.
 
 ## Optionale weitere Schritte
 

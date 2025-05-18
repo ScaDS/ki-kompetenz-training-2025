@@ -9,7 +9,7 @@ Zu Trainingszwecken ist es aber möglich, Fördermittelanträge zu benutzen, die
 ## Aufgaben
 
 Laden Sie das [Projektproposal von NFDI4BioImage](https://zenodo.org/records/13168693) herunter und übergeben Sie es an ChatGPT. Dasselbe Proposal wurde bereits für Sie in [Arcanas hochgeladen](https://chat-ai.academiccloud.de/chat?model=meta-llama-3.1-8b-rag&arcana=robert.haase01%2Ftest&arcana_key=QzJaWUozTlRtVTBxU0ZmSjBaWTZyamcwNUtJcFQ2eXN5YzV3OEdweUROWT0%3D).
-* Fragen Sie, was bestimmte Projektteilnehmende (bspw. Dr. Haase) verantworten und überprüfen Sie die Quellenangaben.
+* Fragen Sie, was bestimmte Projektteilnehmende (beispielsweise Dr. Haase) verantworten und überprüfen Sie die Quellenangaben.
 * Vergleichen Sie beide Systeme.
 
 * Laden Sie mehrere offen verfügbare (!) Dokumente zu ChatGPT oder in die [Academic Cloud](https://chat-ai.academiccloud.de/arcanas/) hoch und fragen Sie, in welchen Projekten bestimmte Universitäten oder Personen Mitglied sind.

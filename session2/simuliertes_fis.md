@@ -11,7 +11,7 @@ Hinweis: Das dahinterliegende Sprachmodell ist OpenAI's GPT-4-mini. Daher sollte
 
 Probieren Sie alle drei Systeme aus und finden Sie heraus, welches der Systeme
 * zufällige Antworten gibt,
-* relevante Themen mittels eines Sprachmodells und In-context Learning ermittelt und
+* relevante Themen mittels eines Sprachmodells und In-Context Learning ermittelt und
 * relevante Themen mittels eines Embeddings ermittelt.
 
 ---

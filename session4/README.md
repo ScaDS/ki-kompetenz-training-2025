@@ -7,8 +7,8 @@ In dieser Session werden wir weitere KI-Systeme austesten. Viele Anbieter machen
   * [Petal](https://www.petal.org/)
   * 
 * [NotebookLM](https://notebooklm.google.com/): Nutzen Sie diese Plattform, indem Sie ein Ihnen bekanntes Schriftstück hochladen und einen Podcast dazu erzeugen lassen.
-* Erzeugen Sie Mindmaps zu beliebigen Themen im `Mermaid`-Format mittels KI, bspw. mit [Claude](https://claude.ai), und kopieren Sie sie in den Online [Mermaid](https://mermaid.live/edit) Editor.
-* Microsoft Office Co-Pilot zur Erzeugung von PowerPoint-Folien
+* Erzeugen Sie Mindmaps zu beliebigen Themen im `Mermaid`-Format mittels KI, beispielsweise mit [Claude](https://claude.ai), und kopieren Sie sie in den Online [Mermaid](https://mermaid.live/edit) Editor.
+* Microsoft Office Copilot zur Erzeugung von PowerPoint-Folien
 * Wissenschaftliche Literaturexploration
   * [Scite.ai](https://scite.ai/)
   * [ORKG](https://orkg.org/)

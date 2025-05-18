@@ -38,7 +38,7 @@ Welche Aspekte fehlen bei diesem Sitzungsprotokoll?
 ## Das Meeting-Protokoll
 
 Das folgende Meeting-Protokoll ist fiktiv und steht zur Bearbeitung der Aufgabe zur Verfügung. 
-Es wurde mit ChatGPT erstellt. Sie können also ggf. auch gerne selbst weitere Protokolle erstellen.
+Es wurde mit ChatGPT erstellt. Sie können also gegebenenfalls auch gerne selbst weitere Protokolle erstellen.
 
 ```{note}
 Sitzungsprotokoll – Planung Symposium

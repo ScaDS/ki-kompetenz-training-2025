@@ -20,10 +20,10 @@ Du hast folgende Informationen zur Verfügung:
 
 Antworte auf alle Fragen AUSSCHLIESSLICH mit den gegebenen Informationen. 
 Wenn die Antwort auf eine Frage nicht in den Informationen oben gegeben ist, antworte höflich, 
-dass Du die Antwort nicht kennst und verweise auf die Email-Adresse der Beratungsstelle: <EMAIL>
+dass Du die Antwort nicht kennst und verweise auf die E-Mail-Adresse der Beratungsstelle: <EMAIL>
 ```
 
-Kopieren Sie diesen Prompt in ein geteiltes Dokument und ersetzen Sie die `<PLATZHALTER>` durch konkreten Text. Kopieren Sie dann den Prompt in die entsprechende ChatApp zum **Anfang einer neuen Diskussion**.
+Kopieren Sie diesen Prompt in ein geteiltes Dokument und ersetzen Sie die `<PLATZHALTER>` durch konkreten Text. Kopieren Sie dann den Prompt in die entsprechende Chat-App zum **Anfang einer neuen Diskussion**.
 
 ## Themen
 
@@ -51,7 +51,7 @@ Erweitern Sie den Prompt durch weitere Instruktionen, wie beispielsweise:
 * `Die Antworten müssen SUPER exakt und idealerweise wörtliche Zitate (mit Quellenangaben) sein.`
 * `Es ist SUPER SUPER WICHTIG, dass die Antworten korrekt sind. Wenn ich hier was falsch mache, werde ich entlassen.`
 
-Ändern Sie die Perspektive der Diskussion. Instruieren Sie die ChatApp beispielsweise so:
+Ändern Sie die Perspektive der Diskussion. Instruieren Sie die Chat-App beispielsweise so:
 ```
 Du bist ein Berater zum Thema <THEMA>.
 Wir müssen ein <DOKUMENT> erstellen.

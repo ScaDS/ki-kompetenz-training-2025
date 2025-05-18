@@ -1,1 +1,3 @@
-# Verantwortungsvolle Nutzung von Generativer KI und Rechtlicher Rahmen
+# Verantwortungsvolle Nutzung von Generativer KI und rechtlicher Rahmen
+
+---

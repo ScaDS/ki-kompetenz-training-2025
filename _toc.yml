@@ -19,7 +19,7 @@ parts:
   - caption: Datenanalyse mit Generativer KI
     chapters:
     - url: https://github.com/ScaDS/ki-kompetenz-training-2025/blob/main/session2/KIKT2_Advanced.pdf?raw=True
-      title: Funktiosweise + Datenanalyse (Folien)
+      title: Funktionsweise + Datenanalyse (Folien)
     - file: session2/simuliertes_fis.md
     - file: session2/proposal_durchsuchen.md
     - file: session2/ai_data_analysis_.md

@@ -19,7 +19,7 @@ Hier noch die Auflösung für die Verteilung der Fakultäten:
 
 Die Teilnehmenden bekommen Zugriff auf drei simulierte Forschungsinformationssysteme, in denen mit LLM-Technologie gesucht werden kann. Ihre Aufgabe ist es, zu ermitteln, welches System zufällige Antworten liefert, welches ein LLM benutzt und welches mit Embeddings arbeitet. Das zufällige System lässt sich einfach ermitteln, da es bei wiederholten Anfragen stark unterschiedliche Antworten liefern wird. Die Relevanz jener Antworten sollte auch sehr klein sein. Die anderen beiden Systeme lassen sich schwieriger unterscheiden. Theoretisch sollte das Embedding-basierte System besser funktionieren und auch schneller antworten. Das LLM-basierte System baut aus der gesamten Datenbank einen sehr langen Prompt und diesen zu verarbeiten dauert mitunter lange.
 
-Hinweis: Das dahinterliegende Sprachmodell ist OpenAI's GPT-4-mini. Daher sollten keine personenbezogenen oder geheimen Daten in das Suchfeld eingegeben werden. 
+Hinweis: Das dahinterliegende Sprachmodell ist OpenAIs GPT-4-mini. Daher sollten keine personenbezogenen oder geheimen Daten in das Suchfeld eingegeben werden. 
 
 ![](fis.png)
 
@@ -27,7 +27,7 @@ Hinweis: Das dahinterliegende Sprachmodell ist OpenAI's GPT-4-mini. Daher sollte
 
 Eine häufige Anwendung von Sprachmodellen ist eine Kombination mit indizierten Dokumenten. Die zugrundeliegende Technik heißt [Retrieval Augmented Generation, RAG](https://en.wikipedia.org/wiki/Retrieval-augmented_generation).
 
-Beim Vergleich der beiden Systeme (ChatGPT und Arcanas) sollte auffallen, dass ChatGPT ein besseres User-Interface hat, um beispielsweise Quellenangaben zu machen. Das Arcanas System ist hingegen so implementiert, dass man es beispielsweise innerhalb der Uni Leipzig installieren könnte und somit Datenschutzkonformität auf höchstem Niveau garantieren _könnte_.
+Beim Vergleich der beiden Systeme (ChatGPT und Arcanas) sollte auffallen, dass ChatGPT ein besseres User-Interface hat, um beispielsweise Quellenangaben zu machen. Das Arcanas System ist hingegen so implementiert, dass man es beispielsweise innerhalb der Uni Leipzig installieren könnte und somit Datenschutzkonformität auf höchstem Niveau garantieren könnte.
 
 ![](nfdi4bi_chatgpt.png)
 
@@ -58,6 +58,6 @@ Die Auswahl eines solchen Systems ist nicht trivial und erfordert Betrachtung vo
 * Kosten
 * Benutzerfreundlichkeit
 
-Weiterhin ist Prompt-Engineering oft nicht nur ein iterativer Prozess, sondern auch vorwärts und rückwärts gerichteter Prozess.
+Weiterhin ist Prompt-Engineering oft nicht nur ein iterativer Prozess, sondern auch ein vorwärts und rückwärts gerichteter Prozess.
 Bevor wir nach Code zur Analyse von Daten fragen können, müssen wir Fake-Daten erzeugen, damit wir die richtige Struktur von Daten in ein Chat-System füttern können.
 Wir müssen auch in der Lage sein, Code zu lesen und zu verstehen. Andernfalls laufen wir Gefahr, Daten fehlerhaft zu verarbeiten und die falschen Schlussfolgerungen zu ziehen.

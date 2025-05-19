@@ -74,4 +74,5 @@ with gr.Blocks() as demo:
     )
 
 if __name__ == "__main__":
-    demo.launch() #server_name="127.0.0.1", server_port=7861, share=False)
+
+    demo.launch(server_name="172.17.2.211", root_path="/training/fis1", server_port=50000)

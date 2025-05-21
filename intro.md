@@ -1,17 +1,15 @@
 # KI-Kompetenz-Training 2025
 
-<Diese Webseite befindet sich im Aufbau>
-
 ## Programm
 
-9:30 - 10:00 [Einführung und Grundlagen](https://github.com/ScaDS/ki-kompetenz-training-2025/blob/main/session1/KIKT1_Intro.pdf?raw=True)
+9:30 - 10:15 [Einführung und Grundlagen](https://github.com/ScaDS/ki-kompetenz-training-2025/blob/main/session1/KIKT1_Intro.pdf?raw=True)
 * Einführung in Künstliche Intelligenz, KI-Systeme und Sprachmodelle
 * Anwendungsgebiete und Grenzen von KI bei der Text-Generierung
 * Prompt-Engineering
 * Prompten mit großem Kontext
 * Wissensdestillation
 
-10:00 - 11:30 Übungen
+10:15 - 11:30 Übungen
 * [Text-Generierung](session1/text_generation.md)
 * [KI-gestützte Beratung / Implementierung eines eigenen ChatBots](session1/chatbot.md)
 * [Wissensdestillation](session1/wissensdestillation.md)

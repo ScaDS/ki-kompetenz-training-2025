@@ -9,6 +9,7 @@ Wir werden während des Trainings einige Sprachmodelle akademischer und kommerzi
 * [Anthropic / Claude](https://claude.ai/) (Kommerzieller Anbieter)
 * [You.com](https://you.com) (Kommerzieller Anbieter)
 * [Google Gemini](https://gemini.google.com/) (Kommerzieller Anbieter)
+* [Perplexity](https://www.perplexity.ai/) (Kommerzieller Anbieter)
 
 Wenn Sie unsicher sind, bei welchen Anbietern sie ein Konto anlegen möchten und bei welchen nicht, können Sie diese Entscheidung auch gerne bis zum Training aufschieben.
 

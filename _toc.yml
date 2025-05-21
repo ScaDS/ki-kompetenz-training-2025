@@ -12,6 +12,7 @@ parts:
     - url: https://github.com/ScaDS/ki-kompetenz-training-2025/blob/main/session1/KIKT1_Intro.pdf?raw=True
       title: Einführung (Folien)
     - file: session1/rede-generierung.md
+    - file: session1/deepresearch.md
     - file: session1/chatbot.md
     - file: session1/destillation.md
     - file: session1/bildgenerierung.md

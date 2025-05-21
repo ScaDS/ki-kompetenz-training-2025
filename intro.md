@@ -11,6 +11,7 @@
 
 10:15 - 11:30 Übungen
 * [Text-Generierung](session1/text_generation.md)
+* [Deep Research](session1/deepresearch.md)
 * [KI-gestützte Beratung / Implementierung eines eigenen ChatBots](session1/chatbot.md)
 * [Wissensdestillation](session1/wissensdestillation.md)
 * [Bildgenerierung](session1/bildgenerierung.md)

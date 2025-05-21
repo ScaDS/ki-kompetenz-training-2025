@@ -1,9 +1,9 @@
 ## Bildgenerierung
 
 * [ChatGPT](https://chat.openai.com/)
-* [Gemini]()
-* [Stable Diffusion]()
-* [Claude](https://claude.ai/) oder [Gemini](https://gemini.google.com/app)
+* [Gemini](https://gemini.google.com/app)
+* [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)
+* [Claude](https://claude.ai/)
 
 ### Bias
 

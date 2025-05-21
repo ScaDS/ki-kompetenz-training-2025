@@ -11,7 +11,7 @@ Einige Anbieter von Sprachmodellen bieten eine Tiefensuche an, das ist eine Soft
 
 ## Aufgabe
 
-Nutzen Sie eine jener Lösungen zur Beantwortung einer komplexen Fragestellung und überprüfen Sie die Quellen.
+Nutzen Sie eine jener Lösungen zur Beantwortung einer komplexen Fragestellung und überprüfen Sie die Quellen. Stimmen Sie sich innerhalb der Gruppe ab, wer welches System testet und vergleichen Sie die Systeme.
 
 ## Einwerbungen von Alexander von Humboldt Professuren
 

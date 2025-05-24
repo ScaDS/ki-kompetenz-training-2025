@@ -30,7 +30,7 @@ parts:
     chapters:
     - url: https://github.com/ScaDS/ki-kompetenz-training-2025/blob/main/session3/KIKT3_ResponsibleAI.pdf?raw=True
       title: Folien
-    - file: session3/ki-detektoren.txt
+    - file: session3/ki-detektoren.mdd
 
   - caption: Diskussion & Ausblick
     chapters:

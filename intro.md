@@ -26,7 +26,7 @@
 13:00 - 14:00 Übungen
 * [Arbeiten mit einem fiktiven KI-gestützten Forschungsinformationssystem](session2/simuliertes_fis.md)
 * [Durchsuchen von Fördermittelanträgen mittels KI](session2/proposal_durchsuchen.md)
-* [Datenanalyse, Daten- und Code-Generierung](session2/ai_data_analysis.md)
+* [Datenanalyse, Daten- und Code-Generierung](session2/ai_data_analysis_.md)
 * [Bias-Detektion](session2/bias_detektion.md)
 
 14:00 - 14:45 [Verantwortungsvolle Nutzung von Generativer KI und Rechtlicher Rahmen](https://github.com/ScaDS/ki-kompetenz-training-2025/blob/main/session3/KIKT3_ResponsibleAI.pdf?raw=True)

@@ -40,7 +40,7 @@ Welche Aspekte fehlen bei diesem Sitzungsprotokoll?
 Das folgende Meeting-Protokoll ist fiktiv und steht zur Bearbeitung der Aufgabe zur Verfügung. 
 Es wurde mit ChatGPT erstellt. Sie können also ggf. auch gerne selbst weitere Protokolle erstellen.
 
-```{note}
+```
 Sitzungsprotokoll – Planung Symposium
 Datum: 3. April 2025, 10:00 – 10:35 Uhr (Zoom)
 Teilnehmer: Dr. Thomas Becker, James Müller, William Schubert

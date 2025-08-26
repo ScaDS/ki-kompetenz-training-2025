@@ -10,10 +10,10 @@
 * Wissensdestillation
 
 10:15 - 11:30 Übungen
-* [Text-Generierung](session1/text_generation.md)
+* [Text-Generierung](session1/rede-generierung.md)
 * [Deep Research](session1/deepresearch.md)
 * [KI-gestützte Beratung / Implementierung eines eigenen ChatBots](session1/chatbot.md)
-* [Wissensdestillation](session1/wissensdestillation.md)
+* [Wissensdestillation](session1/destillation.md)
 * [Bildgenerierung](session1/bildgenerierung.md)
 
 11:30 - 12:00 [Sprachmodelle zum Suchen in Dokumenten und zur Datenanalyse](https://github.com/ScaDS/ki-kompetenz-training-2025/blob/main/session2/KIKT2_Advanced.pdf?raw=True)

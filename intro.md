@@ -1,5 +1,7 @@
 # KI-Kompetenz-Training 2025
 
+Diese Webseite enthält Trainingsmaterialien für eine 1-tägige Weiterbildung zum Thema Künstliche Intelligenz (KI) mit einem Fokus auf Generative KI. Die Zielgrupppe sind Verwaltungsangestellte im universitärem Umfeld. Nach dem Training werden Teilnehmende moderne KI-Systeme wie ChatGPT und lokale, Datenschutzkonforme Alternativen kennen und richtig einzusetzen wissen. Sie werden in der Lage sein Risiken der KI-Nutzung abzuschätzen und wissen, wann und wie Ergebnisse von KI-Systemen kritisch hinterfragt werden können.
+
 ## Programm
 
 9:30 - 10:15 [Einführung und Grundlagen](https://github.com/ScaDS/ki-kompetenz-training-2025/blob/main/session1/KIKT1_Intro.pdf?raw=True)
